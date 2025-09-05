@@ -1,2 +1,6 @@
-streamlit 
+streamlit
 tensorflow
+numpy
+pandas
+altair
+openai
